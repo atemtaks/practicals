@@ -1,2 +1,0 @@
-# practicals
-DevOps git practicals
